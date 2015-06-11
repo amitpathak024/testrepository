@@ -1,0 +1,25 @@
+{
+  "name": "TestingGIT",
+  "version": "1.0.0",
+  "description": "gulptesting",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-minify-html": "^1.0.3",
+    "gulp": "^3.9.0",
+    "gulp-minify-css": "^1.1.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amitpathak024/testrepository"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amitpathak024/testrepository/issues"
+  },
+  "homepage": "https://github.com/amitpathak024/testrepository"
+}
